@@ -1,0 +1,2 @@
+class Difficult:
+	pass
