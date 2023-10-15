@@ -11,7 +11,6 @@ args['colors'] = {						# o programa para fazer o controle
 	'black':(0,5,5),					# do fluxo do mesmo
 	'half_white':(191,205,224),
 	'white':(254,252,253),
-	'red':(255,0,0),
 	'dark_gray':(59,51,85),
 	'gray':(93,93,129)
 }

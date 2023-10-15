@@ -4,7 +4,7 @@ from abc import ABCMeta, abstractmethod
 # Cria uma classe abstrada para as demais cenas do jogo
 class Scene:
 
-	def __init__(self, args, background):
+	def __init__(self, args, background=(0,0,0)):
 
 		self.args = args
 		self.background = background
